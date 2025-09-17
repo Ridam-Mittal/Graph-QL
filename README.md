@@ -1,3 +1,3 @@
 ### GraphQL
 
-Currently learning and working on GraphQL in Node JS.
+A user management crud application implemented using graphQl in NodeJs and react for frontend and sqlite for database 
